@@ -13,5 +13,5 @@ There is one R script called run_analysis.R that does the following:
 ## Before running the R script
 1. Install packages "data.table" and "reshape2".
 2. Download the data source.
-3. Put run_analysis.R in folder with data and set this folder as your working directory.
+3. Put run_analysis.R in data folder "UCI HAR Dataset" and set this folder as your working directory.
 4. source("run_analysis.R") and you will get tidy_data.txt.
